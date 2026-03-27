@@ -44,7 +44,7 @@ Quantium_Data_Analytics_Virtual_Internship/
 └── Quantium Data Analytics - Forage Virtual Internship/
     ├── Task_1_-_Quantium_-_Forage_data_Analytics_Internship.ipynb
     ├── Task_2_-_Quantium_Data_Analytics_-_Forage_Internship.ipynb
-    └── 📄 README.md
+
 ```
 
 ---
