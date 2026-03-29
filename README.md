@@ -37,7 +37,7 @@ This repository contains my work for the **Quantium Data Analyst Internship**, h
 ## 📁 Repository Structure
 
 ```
-Quantium_Data_Analytics_Virtual_Internship/
+Quantium_Data_Analyst_Internship/
 │
 │
 └── Quantium Data Analytics - Forage Virtual Internship/
