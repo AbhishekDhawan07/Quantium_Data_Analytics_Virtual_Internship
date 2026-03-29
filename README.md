@@ -1,4 +1,4 @@
-# 🛒 Quantium Data Analytics Virtual Internship
+# 🛒 Quantium Data Analyst Internship
 
 <p align="center">
   <img src="https://img.shields.io/badge/Internship-Quantium%20x%20Forage-blue?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -24,7 +24,7 @@
 
 ## 🏢 About the Internship
 
-This repository contains my work for the **Quantium Data Analytics Virtual Internship**, hosted on [Forage](https://www.theforage.com/). Quantium is one of Australia's leading data analytics firms, and this program simulates real-world analytics challenges.
+This repository contains my work for the **Quantium Data Analyst Internship**, hosted on [Forage](https://www.theforage.com/). Quantium is one of Australia's leading data analytics firms, and this program simulates real-world analytics challenges.
 
 ---
 
